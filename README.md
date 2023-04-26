@@ -1,7 +1,7 @@
 <br><br><br>
 <div align="center">
 
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&customColorList=18&height=180&section=header&text=sumin's%20Github&animation=fadeIN&fontSize=70)
+  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&customColorList=18&height=180&section=header&text=sumin's%20Github&animation=fadeIN&fontSize=70)
 
 </div>
 <br>
